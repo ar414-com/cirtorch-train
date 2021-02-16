@@ -1,3 +1,4 @@
+__pycache__
 .idea
 data/networks/imagenet-caffe-resnet101-features-10a101d.pth
 data/train/qp_0/*.jpg
