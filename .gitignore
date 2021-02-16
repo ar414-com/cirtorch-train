@@ -1,0 +1,9 @@
+.idea
+data/networks/imagenet-caffe-resnet101-features-10a101d.pth
+data/train/qp_0/*.jpg
+data/train/qp_1/*.jpg
+data/train/qp_2/*.jpg
+data/train/qp_3/*.jpg
+data/train/qp_4/*.jpg
+data/train/qp_5/*.jpg
+data/train/train.pkl
