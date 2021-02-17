@@ -9,9 +9,6 @@
 ### Init project
 ```bash
 $ git clone https://github.com/ar414-com/cirtorch-train
-$ cd cirtorch-train
-$ pip install torch===1.4.0 -f https://download.pytorch.org/whl/torch_stable.html 
-$ pip install requirements.txt
 ```
 
 ### Prepare training data
